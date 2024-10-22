@@ -2,7 +2,7 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-    <a href="https://blog.sunguoqi.com/">
+    <a href="https://github.com/wdxzf/">
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C%20World!;吴同学祝您今天愉快!&center=true&size=27" />
     </a>
   </div>
@@ -74,7 +74,7 @@
   <tr>
     <td valign="top">
       <ul style="list-style-type: none;">
-        <li>🎖️ 全国大学生智能车竞赛全国二等奖</li>
+        <li>🎖️ 全国大学生智能车竞赛全国一等奖</li>
         <li>🏅 第十九届“博创杯”国家一等奖</li>
         <li>🎖️ 中国机器人及人工智能大赛国家二等奖</li>
         <li>🏅 第十五届蓝桥杯全国嵌入式三等奖</li>
